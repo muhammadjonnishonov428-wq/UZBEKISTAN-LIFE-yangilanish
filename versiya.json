@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 5,
- "notes": "Server ochilganda telefondan ulanish uchun IP manzil ko'rsatiladi",
+ "version": 6,
+ "notes": "Unutilgan o'yinchi kodini tiklash: server egasi o'z kompyuterida 'Server ochish' ni bossa, kod yangilanadi",
  "files": {
   "windows": {
-   "file": "v5_windows.pck",
-   "sha256": "356c60322d67430a28eaca5daffe6f79ef7f8f012ee153893fb0e2464a70bd92",
-   "size": 102768
+   "file": "v6_windows.pck",
+   "sha256": "e01809fb6a110849fbb37a5c184bc7f2a022a61fc48a64962a0bb5c6a5d375b2",
+   "size": 103056
   },
   "android": {
-   "file": "v5_android.pck",
-   "sha256": "356c60322d67430a28eaca5daffe6f79ef7f8f012ee153893fb0e2464a70bd92",
-   "size": 102768
+   "file": "v6_android.pck",
+   "sha256": "e01809fb6a110849fbb37a5c184bc7f2a022a61fc48a64962a0bb5c6a5d375b2",
+   "size": 103056
   }
  }
 }
