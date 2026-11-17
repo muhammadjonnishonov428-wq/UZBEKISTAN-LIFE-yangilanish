@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 4,
- "notes": "Pauza menyusi tuzatildi: versiya va 'Yangilanishni tekshirish' tugmasi endi tepada ko'rinadi",
+ "version": 5,
+ "notes": "Server ochilganda telefondan ulanish uchun IP manzil ko'rsatiladi",
  "files": {
   "windows": {
-   "file": "v4_windows.pck",
-   "sha256": "9625ee6665f6811053756098d3d4ce769b50d6de40dc4c2ee44ab397d0bceca8",
-   "size": 80096
+   "file": "v5_windows.pck",
+   "sha256": "356c60322d67430a28eaca5daffe6f79ef7f8f012ee153893fb0e2464a70bd92",
+   "size": 102768
   },
   "android": {
-   "file": "v4_android.pck",
-   "sha256": "9625ee6665f6811053756098d3d4ce769b50d6de40dc4c2ee44ab397d0bceca8",
-   "size": 80096
+   "file": "v5_android.pck",
+   "sha256": "356c60322d67430a28eaca5daffe6f79ef7f8f012ee153893fb0e2464a70bd92",
+   "size": 102768
   }
  }
 }
