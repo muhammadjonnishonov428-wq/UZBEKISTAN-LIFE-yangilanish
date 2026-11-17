@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 8,
- "notes": "Doimiy ism: birinchi kirishda bir marta tanlanadi, kod kerak emas; O'YNASH tugmasi",
+ "version": 9,
+ "notes": "F9 oynasida telefondan ulanish manzili ko'rsatiladi",
  "files": {
   "windows": {
-   "file": "v8_windows.pck",
-   "sha256": "b2a9abb86f21594c9b75243ace7914580b9fa2df7a502d8c7a89e9f75caf2a23",
-   "size": 144872
+   "file": "v9_windows.pck",
+   "sha256": "357a429eadf4e81bd7ab7d301221a4f1addba2eb6c7479ffe007f4b836add9cf",
+   "size": 145320
   },
   "android": {
-   "file": "v8_android.pck",
-   "sha256": "b2a9abb86f21594c9b75243ace7914580b9fa2df7a502d8c7a89e9f75caf2a23",
-   "size": 144872
+   "file": "v9_android.pck",
+   "sha256": "357a429eadf4e81bd7ab7d301221a4f1addba2eb6c7479ffe007f4b836add9cf",
+   "size": 145320
   }
  }
 }
