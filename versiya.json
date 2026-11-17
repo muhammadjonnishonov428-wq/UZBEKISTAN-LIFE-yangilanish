@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 3,
- "notes": "Pauza menyusidagi 'Yangilanishni tekshirish' tugmasi tuzatildi; xavfsiz saqlash",
+ "version": 4,
+ "notes": "Pauza menyusi tuzatildi: versiya va 'Yangilanishni tekshirish' tugmasi endi tepada ko'rinadi",
  "files": {
   "windows": {
-   "file": "v3_windows.pck",
-   "sha256": "1131108e12247ecfc0727db699868fb41f27159f8530382e19aa1338696cb8fa",
-   "size": 79888
+   "file": "v4_windows.pck",
+   "sha256": "9625ee6665f6811053756098d3d4ce769b50d6de40dc4c2ee44ab397d0bceca8",
+   "size": 80096
   },
   "android": {
-   "file": "v3_android.pck",
-   "sha256": "1131108e12247ecfc0727db699868fb41f27159f8530382e19aa1338696cb8fa",
-   "size": 79888
+   "file": "v4_android.pck",
+   "sha256": "9625ee6665f6811053756098d3d4ce769b50d6de40dc4c2ee44ab397d0bceca8",
+   "size": 80096
   }
  }
 }
