@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 2,
- "notes": "Saqlash xavfsizroq bo'ldi: o'yin kutilmaganda yopilsa ham pul va mashinalar yo'qolmaydi",
+ "version": 3,
+ "notes": "Pauza menyusidagi 'Yangilanishni tekshirish' tugmasi tuzatildi; xavfsiz saqlash",
  "files": {
   "windows": {
-   "file": "v2_windows.pck",
-   "sha256": "15d7ed2ab08467b40da59a6df089c56ee88970665b4ca8432420a56694f7650b",
-   "size": 71524
+   "file": "v3_windows.pck",
+   "sha256": "1131108e12247ecfc0727db699868fb41f27159f8530382e19aa1338696cb8fa",
+   "size": 79888
   },
   "android": {
-   "file": "v2_android.pck",
-   "sha256": "15d7ed2ab08467b40da59a6df089c56ee88970665b4ca8432420a56694f7650b",
-   "size": 71524
+   "file": "v3_android.pck",
+   "sha256": "1131108e12247ecfc0727db699868fb41f27159f8530382e19aa1338696cb8fa",
+   "size": 79888
   }
  }
 }
