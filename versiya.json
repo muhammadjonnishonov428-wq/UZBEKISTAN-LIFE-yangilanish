@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 7,
- "notes": "Yangi kirish menyusi: server tanlash va hayot tarzi (ISH, UY, KVARTIRA, OILA)",
+ "version": 8,
+ "notes": "Doimiy ism: birinchi kirishda bir marta tanlanadi, kod kerak emas; O'YNASH tugmasi",
  "files": {
   "windows": {
-   "file": "v7_windows.pck",
-   "sha256": "b3333c5c53c63f23b8d848dffb016419f05a68a997060bcfcf6210649c8da976",
-   "size": 129580
+   "file": "v8_windows.pck",
+   "sha256": "b2a9abb86f21594c9b75243ace7914580b9fa2df7a502d8c7a89e9f75caf2a23",
+   "size": 144872
   },
   "android": {
-   "file": "v7_android.pck",
-   "sha256": "b3333c5c53c63f23b8d848dffb016419f05a68a997060bcfcf6210649c8da976",
-   "size": 129580
+   "file": "v8_android.pck",
+   "sha256": "b2a9abb86f21594c9b75243ace7914580b9fa2df7a502d8c7a89e9f75caf2a23",
+   "size": 144872
   }
  }
 }
