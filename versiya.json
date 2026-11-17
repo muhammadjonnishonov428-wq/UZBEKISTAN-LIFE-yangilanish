@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 6,
- "notes": "Unutilgan o'yinchi kodini tiklash: server egasi o'z kompyuterida 'Server ochish' ni bossa, kod yangilanadi",
+ "version": 7,
+ "notes": "Yangi kirish menyusi: server tanlash va hayot tarzi (ISH, UY, KVARTIRA, OILA)",
  "files": {
   "windows": {
-   "file": "v6_windows.pck",
-   "sha256": "e01809fb6a110849fbb37a5c184bc7f2a022a61fc48a64962a0bb5c6a5d375b2",
-   "size": 103056
+   "file": "v7_windows.pck",
+   "sha256": "b3333c5c53c63f23b8d848dffb016419f05a68a997060bcfcf6210649c8da976",
+   "size": 129580
   },
   "android": {
-   "file": "v6_android.pck",
-   "sha256": "e01809fb6a110849fbb37a5c184bc7f2a022a61fc48a64962a0bb5c6a5d375b2",
-   "size": 103056
+   "file": "v7_android.pck",
+   "sha256": "b3333c5c53c63f23b8d848dffb016419f05a68a997060bcfcf6210649c8da976",
+   "size": 129580
   }
  }
 }
