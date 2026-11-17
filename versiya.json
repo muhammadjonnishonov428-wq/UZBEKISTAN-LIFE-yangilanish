@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 9,
- "notes": "F9 oynasida telefondan ulanish manzili ko'rsatiladi",
+ "version": 10,
+ "notes": "Server kompyuterida O'YNASH serverni o'zi ochadi",
  "files": {
   "windows": {
-   "file": "v9_windows.pck",
-   "sha256": "357a429eadf4e81bd7ab7d301221a4f1addba2eb6c7479ffe007f4b836add9cf",
-   "size": 145320
+   "file": "v10_windows.pck",
+   "sha256": "5e88df4a15bcb904b319a585cb5d05f2364596e5464e1300204b4dc1ade53f2f",
+   "size": 146040
   },
   "android": {
-   "file": "v9_android.pck",
-   "sha256": "357a429eadf4e81bd7ab7d301221a4f1addba2eb6c7479ffe007f4b836add9cf",
-   "size": 145320
+   "file": "v10_android.pck",
+   "sha256": "5e88df4a15bcb904b319a585cb5d05f2364596e5464e1300204b4dc1ade53f2f",
+   "size": 146040
   }
  }
 }
