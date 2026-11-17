@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 10,
- "notes": "Server kompyuterida O'YNASH serverni o'zi ochadi",
+ "version": 11,
+ "notes": "Stulga asta o'tirish va turish; boshqa o'yinchilar o'tirganini ham ko'rasiz",
  "files": {
   "windows": {
-   "file": "v10_windows.pck",
-   "sha256": "5e88df4a15bcb904b319a585cb5d05f2364596e5464e1300204b4dc1ade53f2f",
-   "size": 146040
+   "file": "v11_windows.pck",
+   "sha256": "36c0c83ff44a7d870996ed6198523f855de08c27fb24af231b652c8fddae5c49",
+   "size": 188184
   },
   "android": {
-   "file": "v10_android.pck",
-   "sha256": "5e88df4a15bcb904b319a585cb5d05f2364596e5464e1300204b4dc1ade53f2f",
-   "size": 146040
+   "file": "v11_android.pck",
+   "sha256": "36c0c83ff44a7d870996ed6198523f855de08c27fb24af231b652c8fddae5c49",
+   "size": 188184
   }
  }
 }
