@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 13,
- "notes": "Yangi kasb: yuk tashuvchi (Yuk ombori, kompaniya Damasi)",
+ "version": 14,
+ "notes": "Yangi kasb: do'kon sotuvchisi (do'kon ichi, kassa, mijozlar)",
  "files": {
   "windows": {
-   "file": "v13_windows.pck",
-   "sha256": "229289cc7def270be9ebb6a6c96fcd1296be4f30df3efbf15090f27fb30d893a",
-   "size": 266480
+   "file": "v14_windows.pck",
+   "sha256": "bfcf47415d36a947e5dcf78d9b2292e24de1939f9c70e29e2ebdc45d2369e9b6",
+   "size": 283648
   },
   "android": {
-   "file": "v13_android.pck",
-   "sha256": "229289cc7def270be9ebb6a6c96fcd1296be4f30df3efbf15090f27fb30d893a",
-   "size": 266480
+   "file": "v14_android.pck",
+   "sha256": "bfcf47415d36a947e5dcf78d9b2292e24de1939f9c70e29e2ebdc45d2369e9b6",
+   "size": 283648
   }
  }
 }
