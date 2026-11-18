@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 18,
- "notes": "Do'konlar: savdo markazi (kiyim, smartfon, ehtiyot qismlar), choyxona",
+ "version": 19,
+ "notes": "O'yinchilar o'rtasida pul o'tkazish va mashina savdosi",
  "files": {
   "windows": {
-   "file": "v18_windows.pck",
-   "sha256": "da3396a78d64efca8df4b1310404774eddf3d8e946db7961fcd3c71d9ab91f1a",
-   "size": 395980
+   "file": "v19_windows.pck",
+   "sha256": "d06594fd70171a98bbe3b6f69cbd058425f6770db767cf50441578b29575f7b1",
+   "size": 407532
   },
   "android": {
-   "file": "v18_android.pck",
-   "sha256": "da3396a78d64efca8df4b1310404774eddf3d8e946db7961fcd3c71d9ab91f1a",
-   "size": 395980
+   "file": "v19_android.pck",
+   "sha256": "d06594fd70171a98bbe3b6f69cbd058425f6770db767cf50441578b29575f7b1",
+   "size": 407532
   }
  }
 }
