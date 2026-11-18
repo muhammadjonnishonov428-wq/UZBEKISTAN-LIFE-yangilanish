@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 12,
- "notes": "KVARTIRA: ko'p qavatli uy, lift, 4 ta kvartira",
+ "version": 13,
+ "notes": "Yangi kasb: yuk tashuvchi (Yuk ombori, kompaniya Damasi)",
  "files": {
   "windows": {
-   "file": "v12_windows.pck",
-   "sha256": "59ac8a4ccb8a45afcfb637262030c18f3be886140e9894965c6706168bb8647c",
-   "size": 242348
+   "file": "v13_windows.pck",
+   "sha256": "229289cc7def270be9ebb6a6c96fcd1296be4f30df3efbf15090f27fb30d893a",
+   "size": 266480
   },
   "android": {
-   "file": "v12_android.pck",
-   "sha256": "59ac8a4ccb8a45afcfb637262030c18f3be886140e9894965c6706168bb8647c",
-   "size": 242348
+   "file": "v13_android.pck",
+   "sha256": "229289cc7def270be9ebb6a6c96fcd1296be4f30df3efbf15090f27fb30d893a",
+   "size": 266480
   }
  }
 }
