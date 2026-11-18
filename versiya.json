@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 19,
- "notes": "O'yinchilar o'rtasida pul o'tkazish va mashina savdosi",
+ "version": 20,
+ "notes": "Unumdorlik: binolar birlashtirildi (tezroq ishlaydi)",
  "files": {
   "windows": {
-   "file": "v19_windows.pck",
-   "sha256": "d06594fd70171a98bbe3b6f69cbd058425f6770db767cf50441578b29575f7b1",
-   "size": 407532
+   "file": "v20_windows.pck",
+   "sha256": "3b629edd8c9ab64571b5fbe4d1dad519458044522a7488e90ddbd7d5a34404bb",
+   "size": 410564
   },
   "android": {
-   "file": "v19_android.pck",
-   "sha256": "d06594fd70171a98bbe3b6f69cbd058425f6770db767cf50441578b29575f7b1",
-   "size": 407532
+   "file": "v20_android.pck",
+   "sha256": "3b629edd8c9ab64571b5fbe4d1dad519458044522a7488e90ddbd7d5a34404bb",
+   "size": 410564
   }
  }
 }
