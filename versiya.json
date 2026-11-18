@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 11,
- "notes": "Stulga asta o'tirish va turish; boshqa o'yinchilar o'tirganini ham ko'rasiz",
+ "version": 12,
+ "notes": "KVARTIRA: ko'p qavatli uy, lift, 4 ta kvartira",
  "files": {
   "windows": {
-   "file": "v11_windows.pck",
-   "sha256": "36c0c83ff44a7d870996ed6198523f855de08c27fb24af231b652c8fddae5c49",
-   "size": 188184
+   "file": "v12_windows.pck",
+   "sha256": "59ac8a4ccb8a45afcfb637262030c18f3be886140e9894965c6706168bb8647c",
+   "size": 242348
   },
   "android": {
-   "file": "v11_android.pck",
-   "sha256": "36c0c83ff44a7d870996ed6198523f855de08c27fb24af231b652c8fddae5c49",
-   "size": 188184
+   "file": "v12_android.pck",
+   "sha256": "59ac8a4ccb8a45afcfb637262030c18f3be886140e9894965c6706168bb8647c",
+   "size": 242348
   }
  }
 }
