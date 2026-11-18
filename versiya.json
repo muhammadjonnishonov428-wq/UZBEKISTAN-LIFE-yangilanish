@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 15,
- "notes": "Yangi kasb: avtoservis ustasi; mashinangizni ta'mirlash",
+ "version": 16,
+ "notes": "OILA: to'y, oila a'zolari uyda, farzand, oila baxti",
  "files": {
   "windows": {
-   "file": "v15_windows.pck",
-   "sha256": "508c1099830d60033cbef5db21d099240b1daa9ce15e3706e434841db332956f",
-   "size": 295856
+   "file": "v16_windows.pck",
+   "sha256": "1ff23cb2b06becc40a6ac0f62e4754a61ff0eb03bf8f3d19976b8f987ef6b360",
+   "size": 313572
   },
   "android": {
-   "file": "v15_android.pck",
-   "sha256": "508c1099830d60033cbef5db21d099240b1daa9ce15e3706e434841db332956f",
-   "size": 295856
+   "file": "v16_android.pck",
+   "sha256": "1ff23cb2b06becc40a6ac0f62e4754a61ff0eb03bf8f3d19976b8f987ef6b360",
+   "size": 313572
   }
  }
 }
