@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 14,
- "notes": "Yangi kasb: do'kon sotuvchisi (do'kon ichi, kassa, mijozlar)",
+ "version": 15,
+ "notes": "Yangi kasb: avtoservis ustasi; mashinangizni ta'mirlash",
  "files": {
   "windows": {
-   "file": "v14_windows.pck",
-   "sha256": "bfcf47415d36a947e5dcf78d9b2292e24de1939f9c70e29e2ebdc45d2369e9b6",
-   "size": 283648
+   "file": "v15_windows.pck",
+   "sha256": "508c1099830d60033cbef5db21d099240b1daa9ce15e3706e434841db332956f",
+   "size": 295856
   },
   "android": {
-   "file": "v14_android.pck",
-   "sha256": "bfcf47415d36a947e5dcf78d9b2292e24de1939f9c70e29e2ebdc45d2369e9b6",
-   "size": 283648
+   "file": "v15_android.pck",
+   "sha256": "508c1099830d60033cbef5db21d099240b1daa9ce15e3706e434841db332956f",
+   "size": 295856
   }
  }
 }
