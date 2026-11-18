@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 17,
- "notes": "Yoqilg'i, zapravka, avtoyuvish, yo'l yordami",
+ "version": 18,
+ "notes": "Do'konlar: savdo markazi (kiyim, smartfon, ehtiyot qismlar), choyxona",
  "files": {
   "windows": {
-   "file": "v17_windows.pck",
-   "sha256": "4eb51cfdda7d5b58c151d3ddd5a9efbd960aa9c27cb171958f6db62282e3fedc",
-   "size": 358968
+   "file": "v18_windows.pck",
+   "sha256": "da3396a78d64efca8df4b1310404774eddf3d8e946db7961fcd3c71d9ab91f1a",
+   "size": 395980
   },
   "android": {
-   "file": "v17_android.pck",
-   "sha256": "4eb51cfdda7d5b58c151d3ddd5a9efbd960aa9c27cb171958f6db62282e3fedc",
-   "size": 358968
+   "file": "v18_android.pck",
+   "sha256": "da3396a78d64efca8df4b1310404774eddf3d8e946db7961fcd3c71d9ab91f1a",
+   "size": 395980
   }
  }
 }
