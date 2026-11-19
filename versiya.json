@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 27,
- "notes": "Yangi kasb: marshrutka haydovchisi (Damas, vokzal avtoturargohi)",
+ "version": 28,
+ "notes": "Marshrutka bekatlari: soyabon, kutayotgan va chiqayotgan yo'lovchilar",
  "files": {
   "windows": {
-   "file": "v27_windows.pck",
-   "sha256": "2256e5ca597f39ccf8f84b999e8ee033b151da75c73c890513c3f094972555dc",
-   "size": 9057620
+   "file": "v28_windows.pck",
+   "sha256": "166b0359e6dd5aa6dd220d45ddcbc7f31537c589cf0f249c76a490cb7f300103",
+   "size": 9061796
   },
   "android": {
-   "file": "v27_android.pck",
-   "sha256": "911decc6d3d8448ddc1d3c766119a4ce197b2c3707e970d5a103b0326b096743",
-   "size": 9057268
+   "file": "v28_android.pck",
+   "sha256": "988bf86ec965d60b67411e79b89aeaa8bbd064ecf1bfc1e20239bd7f6ca34480",
+   "size": 9061444
   }
  }
 }
