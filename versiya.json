@@ -1,6 +1,17 @@
 {
  "base": 2,
- "version": 21,
- "notes": "v1.0.0 — yangi APK/EXE (yangilanish 21 ichida). Eski o'yin: yangi APK/EXE ni o'rnating, saqlanmalar o'chmaydi.",
- "files": {}
+ "version": 22,
+ "notes": "Yangi mashinalar: Chevrolet Spark, Chevrolet Malibu, Isuzu Elf; yuk ishida endi Isuzu yuk mashinasi",
+ "files": {
+  "windows": {
+   "file": "v22_windows.pck",
+   "sha256": "aebe34b4289aa3c358c4d48d975d08600beda7a62b7755695447ca5752fc808c",
+   "size": 9046824
+  },
+  "android": {
+   "file": "v22_android.pck",
+   "sha256": "11b12df372e43566cc7b33e721b258a52689fe322aac903166b97a311f1d1dd4",
+   "size": 9046472
+  }
+ }
 }
