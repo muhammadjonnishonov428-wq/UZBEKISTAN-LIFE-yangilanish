@@ -1,17 +1,6 @@
 {
- "base": 1,
+ "base": 2,
  "version": 21,
- "notes": "Rus tili (qisman) — pauza menyusida til tanlash; NPC soyalari optimallashtirildi",
- "files": {
-  "windows": {
-   "file": "v21_windows.pck",
-   "sha256": "7934b446e3965d3e7c104520f8670c31baf0bcc271c1242f8b12aa2cd0c31a35",
-   "size": 551168
-  },
-  "android": {
-   "file": "v21_android.pck",
-   "sha256": "7934b446e3965d3e7c104520f8670c31baf0bcc271c1242f8b12aa2cd0c31a35",
-   "size": 551168
-  }
- }
+ "notes": "v1.0.0 — yangi APK/EXE (yangilanish 21 ichida). Eski o'yin: yangi APK/EXE ni o'rnating, saqlanmalar o'chmaydi.",
+ "files": {}
 }
