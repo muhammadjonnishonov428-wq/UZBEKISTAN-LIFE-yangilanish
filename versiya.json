@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 22,
- "notes": "Yangi mashinalar: Chevrolet Spark, Chevrolet Malibu, Isuzu Elf; yuk ishida endi Isuzu yuk mashinasi",
+ "version": 23,
+ "notes": "Malibu: kuzov qismlari to'liq ko'rinadi (xato tuzatildi)",
  "files": {
   "windows": {
-   "file": "v22_windows.pck",
-   "sha256": "aebe34b4289aa3c358c4d48d975d08600beda7a62b7755695447ca5752fc808c",
-   "size": 9046824
+   "file": "v23_windows.pck",
+   "sha256": "5692295e84248b5b8369f4007183d4be25aab04590988c414ccfa99601df62e5",
+   "size": 9046968
   },
   "android": {
-   "file": "v22_android.pck",
-   "sha256": "11b12df372e43566cc7b33e721b258a52689fe322aac903166b97a311f1d1dd4",
-   "size": 9046472
+   "file": "v23_android.pck",
+   "sha256": "e640acda10544b02644fea29b2b218cae9733297871929c92b0c958bfc3b5be3",
+   "size": 9046616
   }
  }
 }
