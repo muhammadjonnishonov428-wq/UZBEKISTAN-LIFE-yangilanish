@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 26,
- "notes": "Ish joylari: yerda qizil doira (yozuvlar olib tashlandi)",
+ "version": 27,
+ "notes": "Yangi kasb: marshrutka haydovchisi (Damas, vokzal avtoturargohi)",
  "files": {
   "windows": {
-   "file": "v26_windows.pck",
-   "sha256": "d20531acc930eba8a7228e2717c80694418c59480c9ed262d1d66078841f3ce7",
-   "size": 9053876
+   "file": "v27_windows.pck",
+   "sha256": "2256e5ca597f39ccf8f84b999e8ee033b151da75c73c890513c3f094972555dc",
+   "size": 9057620
   },
   "android": {
-   "file": "v26_android.pck",
-   "sha256": "f2852f490c269bdba61fb3ed93d20d22be1926c4db36acdc7c6374cbe8e76184",
-   "size": 9053524
+   "file": "v27_android.pck",
+   "sha256": "911decc6d3d8448ddc1d3c766119a4ce197b2c3707e970d5a103b0326b096743",
+   "size": 9057268
   }
  }
 }
