@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 23,
- "notes": "Malibu: kuzov qismlari to'liq ko'rinadi (xato tuzatildi)",
+ "version": 24,
+ "notes": "Yuk omborida ortish joyi kattalashtirildi va aniq belgilandi",
  "files": {
   "windows": {
-   "file": "v23_windows.pck",
-   "sha256": "5692295e84248b5b8369f4007183d4be25aab04590988c414ccfa99601df62e5",
-   "size": 9046968
+   "file": "v24_windows.pck",
+   "sha256": "20dd0d64e6a00675dfc7a346425497554b9c2963c13cd18af90fb1e86487f32c",
+   "size": 9047384
   },
   "android": {
-   "file": "v23_android.pck",
-   "sha256": "e640acda10544b02644fea29b2b218cae9733297871929c92b0c958bfc3b5be3",
-   "size": 9046616
+   "file": "v24_android.pck",
+   "sha256": "df23d497a30cf82f91a03a19d7b9fcbeb4b01d2d5dfeb3a9a313388cebfe0b98",
+   "size": 9047032
   }
  }
 }
