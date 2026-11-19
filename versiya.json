@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 24,
- "notes": "Yuk omborida ortish joyi kattalashtirildi va aniq belgilandi",
+ "version": 25,
+ "notes": "Ish markazi yo'q — har ish o'z joyida: taksi bekati, do'kon, Yuk ombori, Avtoservis",
  "files": {
   "windows": {
-   "file": "v24_windows.pck",
-   "sha256": "20dd0d64e6a00675dfc7a346425497554b9c2963c13cd18af90fb1e86487f32c",
-   "size": 9047384
+   "file": "v25_windows.pck",
+   "sha256": "72886d89633008644433710e4de2a72840cbd0955f2afb11a82600f197cbd9c0",
+   "size": 9053156
   },
   "android": {
-   "file": "v24_android.pck",
-   "sha256": "df23d497a30cf82f91a03a19d7b9fcbeb4b01d2d5dfeb3a9a313388cebfe0b98",
-   "size": 9047032
+   "file": "v25_android.pck",
+   "sha256": "e1216dfc6496ac8686922e2c7393a505a6361656034b16955ab3392b1e31d049",
+   "size": 9052804
   }
  }
 }
