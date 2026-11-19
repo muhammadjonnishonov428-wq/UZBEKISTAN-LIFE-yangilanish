@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 25,
- "notes": "Ish markazi yo'q — har ish o'z joyida: taksi bekati, do'kon, Yuk ombori, Avtoservis",
+ "version": 26,
+ "notes": "Ish joylari: yerda qizil doira (yozuvlar olib tashlandi)",
  "files": {
   "windows": {
-   "file": "v25_windows.pck",
-   "sha256": "72886d89633008644433710e4de2a72840cbd0955f2afb11a82600f197cbd9c0",
-   "size": 9053156
+   "file": "v26_windows.pck",
+   "sha256": "d20531acc930eba8a7228e2717c80694418c59480c9ed262d1d66078841f3ce7",
+   "size": 9053876
   },
   "android": {
-   "file": "v25_android.pck",
-   "sha256": "e1216dfc6496ac8686922e2c7393a505a6361656034b16955ab3392b1e31d049",
-   "size": 9052804
+   "file": "v26_android.pck",
+   "sha256": "f2852f490c269bdba61fb3ed93d20d22be1926c4db36acdc7c6374cbe8e76184",
+   "size": 9053524
   }
  }
 }
