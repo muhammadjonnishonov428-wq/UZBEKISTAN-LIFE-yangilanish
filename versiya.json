@@ -1,17 +1,17 @@
 {
  "base": 1,
- "version": 20,
- "notes": "Unumdorlik: binolar birlashtirildi (tezroq ishlaydi)",
+ "version": 21,
+ "notes": "Rus tili (qisman) — pauza menyusida til tanlash; NPC soyalari optimallashtirildi",
  "files": {
   "windows": {
-   "file": "v20_windows.pck",
-   "sha256": "3b629edd8c9ab64571b5fbe4d1dad519458044522a7488e90ddbd7d5a34404bb",
-   "size": 410564
+   "file": "v21_windows.pck",
+   "sha256": "7934b446e3965d3e7c104520f8670c31baf0bcc271c1242f8b12aa2cd0c31a35",
+   "size": 551168
   },
   "android": {
-   "file": "v20_android.pck",
-   "sha256": "3b629edd8c9ab64571b5fbe4d1dad519458044522a7488e90ddbd7d5a34404bb",
-   "size": 410564
+   "file": "v21_android.pck",
+   "sha256": "7934b446e3965d3e7c104520f8670c31baf0bcc271c1242f8b12aa2cd0c31a35",
+   "size": 551168
   }
  }
 }
