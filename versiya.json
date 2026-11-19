@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 28,
- "notes": "Marshrutka bekatlari: soyabon, kutayotgan va chiqayotgan yo'lovchilar",
+ "version": 29,
+ "notes": "Yangi kasb: YPX inspektori (patrul mashinasi, YTH, tezlik posti)",
  "files": {
   "windows": {
-   "file": "v28_windows.pck",
-   "sha256": "166b0359e6dd5aa6dd220d45ddcbc7f31537c589cf0f249c76a490cb7f300103",
-   "size": 9061796
+   "file": "v29_windows.pck",
+   "sha256": "30b23ab242f510ff9aca0187a0010a192d7b2c0431a1e997706bbb9062cea173",
+   "size": 9070580
   },
   "android": {
-   "file": "v28_android.pck",
-   "sha256": "988bf86ec965d60b67411e79b89aeaa8bbd064ecf1bfc1e20239bd7f6ca34480",
-   "size": 9061444
+   "file": "v29_android.pck",
+   "sha256": "1ac932745bdad49c3c45184ff68b9f4ad8c2a765e9d2abb3154a644350e98d10",
+   "size": 9070228
   }
  }
 }
