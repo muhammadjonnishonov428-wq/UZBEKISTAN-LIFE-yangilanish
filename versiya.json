@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 30,
- "notes": "YPX: sirena (H), buzuvchini quvish, avariya joyida haydovchilar",
+ "version": 31,
+ "notes": "Haqiqiy Samarqand: butun shahar (OpenStreetMap), vokzal tumani haqiqiy vokzal o'rnida; GPS va xarita butun shahar bo'yicha; do'konlar, bank, zapravka, bozor, avtosalon va ishlar (taksi, marshrutka, YPX, kuryer) o'z joyida; svetofor va piyodalar",
  "files": {
   "windows": {
-   "file": "v30_windows.pck",
-   "sha256": "30335ba9df289578532b5b119e6bc961ad67c11f1b5b13290cb7f21004ea53e3",
-   "size": 9098196
+   "file": "v31_windows.pck",
+   "sha256": "35b5cb8a3405b77d9410ce0e6174bffe8aae84fe25a31d5af52357c1136d4412",
+   "size": 64047836
   },
   "android": {
-   "file": "v30_android.pck",
-   "sha256": "7b13eecef3d320f8bf59d52ca65fa070a9ab66f9eb8718baf6568469dbe77377",
-   "size": 9097844
+   "file": "v31_android.pck",
+   "sha256": "12ba7da89de076e8b6c5360e42abf23d05da2fab2197f87ce4e9a07280c5f4ca",
+   "size": 64047484
   }
  }
 }
