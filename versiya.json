@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 29,
- "notes": "Yangi kasb: YPX inspektori (patrul mashinasi, YTH, tezlik posti)",
+ "version": 30,
+ "notes": "YPX: sirena (H), buzuvchini quvish, avariya joyida haydovchilar",
  "files": {
   "windows": {
-   "file": "v29_windows.pck",
-   "sha256": "30b23ab242f510ff9aca0187a0010a192d7b2c0431a1e997706bbb9062cea173",
-   "size": 9070580
+   "file": "v30_windows.pck",
+   "sha256": "30335ba9df289578532b5b119e6bc961ad67c11f1b5b13290cb7f21004ea53e3",
+   "size": 9098196
   },
   "android": {
-   "file": "v29_android.pck",
-   "sha256": "1ac932745bdad49c3c45184ff68b9f4ad8c2a765e9d2abb3154a644350e98d10",
-   "size": 9070228
+   "file": "v30_android.pck",
+   "sha256": "7b13eecef3d320f8bf59d52ca65fa070a9ab66f9eb8718baf6568469dbe77377",
+   "size": 9097844
   }
  }
 }
