@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 31,
- "notes": "Haqiqiy Samarqand: butun shahar (OpenStreetMap), vokzal tumani haqiqiy vokzal o'rnida; GPS va xarita butun shahar bo'yicha; do'konlar, bank, zapravka, bozor, avtosalon va ishlar (taksi, marshrutka, YPX, kuryer) o'z joyida; svetofor va piyodalar",
+ "version": 32,
+ "notes": "Eski xarita to'liq olib tashlandi: o'yin faqat haqiqiy Samarqandda. Uy vokzal yonidagi haqiqiy uyda, Muhammadjon Bank Registon yonidagi haqiqiy bank binosida, do'kon, avtoservis, kvartira va sotiladigan uylar haqiqiy binolarda (eshigidan kiriladi). Turargoh, avtosalon, tyuning va yuk ombori haqiqiy joylarida. Shahar tezroq ishlaydi.",
  "files": {
   "windows": {
-   "file": "v31_windows.pck",
-   "sha256": "35b5cb8a3405b77d9410ce0e6174bffe8aae84fe25a31d5af52357c1136d4412",
-   "size": 64047836
+   "file": "v32_windows.pck",
+   "sha256": "796061333fdb5d9e3ce457006a68142b7af523530665664d4aeab94b5f1c62ff",
+   "size": 57374992
   },
   "android": {
-   "file": "v31_android.pck",
-   "sha256": "12ba7da89de076e8b6c5360e42abf23d05da2fab2197f87ce4e9a07280c5f4ca",
-   "size": 64047484
+   "file": "v32_android.pck",
+   "sha256": "6b0d8bda85568a7e899395f34c1a7b9818be6eb8a6783eaa07f19f6c4796e1ff",
+   "size": 57374640
   }
  }
 }
