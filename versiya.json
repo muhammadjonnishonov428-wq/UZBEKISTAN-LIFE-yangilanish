@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 33,
- "notes": "Tezlik: uzoqdagi NPC mashinalar yengil modelda chiziladi (chizish yuki 2–3 baravar kam), shahar binolari kamroq bo'lakda. Ovozdagi xatoga himoya.",
+ "version": 34,
+ "notes": "O'yin ba'zan qotib qolishi tuzatildi (mashina almashtirilganda, sinov haydash tugaganda). Tezlik yaxshilandi.",
  "files": {
   "windows": {
-   "file": "v33_windows.pck",
-   "sha256": "675f8d4187b4507912f267f11b105deec7a37d6acb7ec5d7c1457f65fc2d661f",
-   "size": 62298688
+   "file": "v34_windows.pck",
+   "sha256": "9ae64ed208cf3e2c1f268e0a2194c77709d848aa69865d1eac56f7178fb3bc11",
+   "size": 62334148
   },
   "android": {
-   "file": "v33_android.pck",
-   "sha256": "69ad9c025c62028bc890d93870b3dc1fdefb68a45ae938058ec5ac688e71991e",
-   "size": 62298336
+   "file": "v34_android.pck",
+   "sha256": "45d947f9ce604261d42a38225c30cea8fd38362d755c0dde024098078c27d958",
+   "size": 62333796
   }
  }
 }
