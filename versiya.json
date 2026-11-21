@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 32,
- "notes": "Eski xarita to'liq olib tashlandi: o'yin faqat haqiqiy Samarqandda. Uy vokzal yonidagi haqiqiy uyda, Muhammadjon Bank Registon yonidagi haqiqiy bank binosida, do'kon, avtoservis, kvartira va sotiladigan uylar haqiqiy binolarda (eshigidan kiriladi). Turargoh, avtosalon, tyuning va yuk ombori haqiqiy joylarida. Shahar tezroq ishlaydi.",
+ "version": 33,
+ "notes": "Tezlik: uzoqdagi NPC mashinalar yengil modelda chiziladi (chizish yuki 2–3 baravar kam), shahar binolari kamroq bo'lakda. Ovozdagi xatoga himoya.",
  "files": {
   "windows": {
-   "file": "v32_windows.pck",
-   "sha256": "796061333fdb5d9e3ce457006a68142b7af523530665664d4aeab94b5f1c62ff",
-   "size": 57374992
+   "file": "v33_windows.pck",
+   "sha256": "675f8d4187b4507912f267f11b105deec7a37d6acb7ec5d7c1457f65fc2d661f",
+   "size": 62298688
   },
   "android": {
-   "file": "v32_android.pck",
-   "sha256": "6b0d8bda85568a7e899395f34c1a7b9818be6eb8a6783eaa07f19f6c4796e1ff",
-   "size": 57374640
+   "file": "v33_android.pck",
+   "sha256": "69ad9c025c62028bc890d93870b3dc1fdefb68a45ae938058ec5ac688e71991e",
+   "size": 62298336
   }
  }
 }
