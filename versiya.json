@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 35,
- "notes": "Tuzatish: o'yin ochilganda yopilib qolardi (mashina skripti xatosi)",
+ "version": 36,
+ "notes": "Tezlik: Past grafikada V-Sync o'chirildi; tezlik o'lchagichi qo'shildi",
  "files": {
   "windows": {
-   "file": "v35_windows.pck",
-   "sha256": "df773363cba5f3fd14d69b02a691edcf7d0054d8b11c9ff578f00f1234bf4944",
-   "size": 62349908
+   "file": "v36_windows.pck",
+   "sha256": "9367a4bad4b0eda6abd91764942698747d65c7a09340e3ea09b9a77f16c35582",
+   "size": 62352560
   },
   "android": {
-   "file": "v35_android.pck",
-   "sha256": "195f5139a42cc9c78fd9da5c7e8dfb58b92900ea168f8ef85ccf0d044736ee26",
-   "size": 62349556
+   "file": "v36_android.pck",
+   "sha256": "3952eb686708baad3df8ea5a7d6d4aeb77720a1c5636064cd233cdff42e7b1ef",
+   "size": 62352208
   }
  }
 }
