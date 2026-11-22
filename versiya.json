@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 36,
- "notes": "Tezlik: Past grafikada V-Sync o'chirildi; tezlik o'lchagichi qo'shildi",
+ "version": 37,
+ "notes": "Telefonni serverga kiritish (Esc menyusida Ruxsat berish); piyodalar xatosi; mashina almashganda qotish tuzatildi",
  "files": {
   "windows": {
-   "file": "v36_windows.pck",
-   "sha256": "9367a4bad4b0eda6abd91764942698747d65c7a09340e3ea09b9a77f16c35582",
-   "size": 62352560
+   "file": "v37_windows.pck",
+   "sha256": "f0bd5fa71d7aa59509d9e0d317c5c7cbf7293f34e008a0e8d5880d9e989a4f22",
+   "size": 62382292
   },
   "android": {
-   "file": "v36_android.pck",
-   "sha256": "3952eb686708baad3df8ea5a7d6d4aeb77720a1c5636064cd233cdff42e7b1ef",
-   "size": 62352208
+   "file": "v37_android.pck",
+   "sha256": "62def8667ce41afbb3ed0529215b98d19879f0ff78db588a2476e1935761e9b6",
+   "size": 62381940
   }
  }
 }
