@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 34,
- "notes": "O'yin ba'zan qotib qolishi tuzatildi (mashina almashtirilganda, sinov haydash tugaganda). Tezlik yaxshilandi.",
+ "version": 35,
+ "notes": "Tuzatish: o'yin ochilganda yopilib qolardi (mashina skripti xatosi)",
  "files": {
   "windows": {
-   "file": "v34_windows.pck",
-   "sha256": "9ae64ed208cf3e2c1f268e0a2194c77709d848aa69865d1eac56f7178fb3bc11",
-   "size": 62334148
+   "file": "v35_windows.pck",
+   "sha256": "df773363cba5f3fd14d69b02a691edcf7d0054d8b11c9ff578f00f1234bf4944",
+   "size": 62349908
   },
   "android": {
-   "file": "v34_android.pck",
-   "sha256": "45d947f9ce604261d42a38225c30cea8fd38362d755c0dde024098078c27d958",
-   "size": 62333796
+   "file": "v35_android.pck",
+   "sha256": "195f5139a42cc9c78fd9da5c7e8dfb58b92900ea168f8ef85ccf0d044736ee26",
+   "size": 62349556
   }
  }
 }
