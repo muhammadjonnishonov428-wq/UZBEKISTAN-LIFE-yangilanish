@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 41,
- "notes": "Telefonda tezlik: Past grafikada tasvir o'lchami FPS ga qarab moslanadi",
+ "version": 42,
+ "notes": "Telefonda tezlik: piyodalar yengillashtirildi; ko'rsatkichda fizika tafsiloti",
  "files": {
   "windows": {
-   "file": "v41_windows.pck",
-   "sha256": "13aa391f0382233b7306632d3f583b4ae844e87f3ab02306eaaedc703ab09f46",
-   "size": 62387044
+   "file": "v42_windows.pck",
+   "sha256": "1dd3199b982e6ed7ab40741164cef01c0b95cfd3d3b8d03e3e4d5c3ea4771d1f",
+   "size": 62388580
   },
   "android": {
-   "file": "v41_android.pck",
-   "sha256": "9a162bb8a6c9ad25a8b9381bbbda8eb18b77b8b5f54736bfbbac781e3ec6d800",
-   "size": 62386692
+   "file": "v42_android.pck",
+   "sha256": "33d26cc2da783b6d4ac1afa046a1b83e4a6c1b03803c9b7113b0fc3e23b6544a",
+   "size": 62388228
   }
  }
 }
