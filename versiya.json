@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 39,
- "notes": "Tezlik: NPC mashina va piyodalar yengillashtirildi",
+ "version": 40,
+ "notes": "Pauza menyusida tezlik ko'rsatkichi (FPS)",
  "files": {
   "windows": {
-   "file": "v39_windows.pck",
-   "sha256": "1295f438299cd7485144857298e2b859489ea8241808c30f7916500d1ebaea88",
-   "size": 62384500
+   "file": "v40_windows.pck",
+   "sha256": "5b321d21c2c93771c2e65ba247828832109ad3a1130d8667a2cb0c8e4e93130a",
+   "size": 62386308
   },
   "android": {
-   "file": "v39_android.pck",
-   "sha256": "357f50e082caad1f1d95e38ad0c644e44421af10fb07e2d30be44ec2abd8e1c6",
-   "size": 62384148
+   "file": "v40_android.pck",
+   "sha256": "c2021c5ca52aaab07e3504ec6ee285dd22fc924434b76a51c45336d086f42981",
+   "size": 62385956
   }
  }
 }
