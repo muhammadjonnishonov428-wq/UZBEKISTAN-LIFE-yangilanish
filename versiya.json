@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 37,
- "notes": "Telefonni serverga kiritish (Esc menyusida Ruxsat berish); piyodalar xatosi; mashina almashganda qotish tuzatildi",
+ "version": 38,
+ "notes": "Tezlik o'lchagichi yaxshilandi",
  "files": {
   "windows": {
-   "file": "v37_windows.pck",
-   "sha256": "f0bd5fa71d7aa59509d9e0d317c5c7cbf7293f34e008a0e8d5880d9e989a4f22",
-   "size": 62382292
+   "file": "v38_windows.pck",
+   "sha256": "023c21c082a4e68807d4196af8c1a8efaf86cf384c8eae5032715dd83b170750",
+   "size": 62382900
   },
   "android": {
-   "file": "v37_android.pck",
-   "sha256": "62def8667ce41afbb3ed0529215b98d19879f0ff78db588a2476e1935761e9b6",
-   "size": 62381940
+   "file": "v38_android.pck",
+   "sha256": "ec5821514c2dbd966d1974e0ee19d0796e359155df0f17240ee9d6d25aefbdf0",
+   "size": 62382548
   }
  }
 }
