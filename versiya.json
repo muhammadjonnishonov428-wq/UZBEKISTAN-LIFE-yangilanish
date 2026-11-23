@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 40,
- "notes": "Pauza menyusida tezlik ko'rsatkichi (FPS)",
+ "version": 41,
+ "notes": "Telefonda tezlik: Past grafikada tasvir o'lchami FPS ga qarab moslanadi",
  "files": {
   "windows": {
-   "file": "v40_windows.pck",
-   "sha256": "5b321d21c2c93771c2e65ba247828832109ad3a1130d8667a2cb0c8e4e93130a",
-   "size": 62386308
+   "file": "v41_windows.pck",
+   "sha256": "13aa391f0382233b7306632d3f583b4ae844e87f3ab02306eaaedc703ab09f46",
+   "size": 62387044
   },
   "android": {
-   "file": "v40_android.pck",
-   "sha256": "c2021c5ca52aaab07e3504ec6ee285dd22fc924434b76a51c45336d086f42981",
-   "size": 62385956
+   "file": "v41_android.pck",
+   "sha256": "9a162bb8a6c9ad25a8b9381bbbda8eb18b77b8b5f54736bfbbac781e3ec6d800",
+   "size": 62386692
   }
  }
 }
