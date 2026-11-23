@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 38,
- "notes": "Tezlik o'lchagichi yaxshilandi",
+ "version": 39,
+ "notes": "Tezlik: NPC mashina va piyodalar yengillashtirildi",
  "files": {
   "windows": {
-   "file": "v38_windows.pck",
-   "sha256": "023c21c082a4e68807d4196af8c1a8efaf86cf384c8eae5032715dd83b170750",
-   "size": 62382900
+   "file": "v39_windows.pck",
+   "sha256": "1295f438299cd7485144857298e2b859489ea8241808c30f7916500d1ebaea88",
+   "size": 62384500
   },
   "android": {
-   "file": "v38_android.pck",
-   "sha256": "ec5821514c2dbd966d1974e0ee19d0796e359155df0f17240ee9d6d25aefbdf0",
-   "size": 62382548
+   "file": "v39_android.pck",
+   "sha256": "357f50e082caad1f1d95e38ad0c644e44421af10fb07e2d30be44ec2abd8e1c6",
+   "size": 62384148
   }
  }
 }
