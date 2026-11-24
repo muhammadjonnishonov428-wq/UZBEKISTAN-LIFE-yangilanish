@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 49,
- "notes": "O'yin muvozanati: to'qlik sekinroq tushadi (~1,5 soat), mashina yoqilg'isi 2 baravar kam sarflanadi, taksi/kuryer/marshrutka ko'proq to'laydi, usta va sotuvchi ish haqi tenglashtirildi",
+ "version": 50,
+ "notes": "Kechki shahar: derazalar yonadi, ko'chalarda chiroqlar va yorug' dog'lar, NPC mashinalar kechasi faralarini yoqadi",
  "files": {
   "windows": {
-   "file": "v49_windows.pck",
-   "sha256": "34b3c7849e7e5d5f85970a335e8a867993ac8117318af20e596f5228a724074e",
-   "size": 65928276
+   "file": "v50_windows.pck",
+   "sha256": "15fbf4b7d9e67968cf8d4d55bc0d38d9dabbd62848abf781e19de40afb81faae",
+   "size": 74677024
   },
   "android": {
-   "file": "v49_android.pck",
-   "sha256": "b4e88ecfdf515af2f8eb44319c6076bb35c6e3b9ddad1d6aa1ee8ef6255d8d5b",
-   "size": 65927924
+   "file": "v50_android.pck",
+   "sha256": "038ab698fa436de24aa2b4931e89867a701ce8a7c2b67db226e6ebf634bd8c78",
+   "size": 74676672
   }
  }
 }
