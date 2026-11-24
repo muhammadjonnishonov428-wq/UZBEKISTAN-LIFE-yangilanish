@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 48,
- "notes": "Do'kon, choyxona va kafelarga kirish mumkin",
+ "version": 49,
+ "notes": "O'yin muvozanati: to'qlik sekinroq tushadi (~1,5 soat), mashina yoqilg'isi 2 baravar kam sarflanadi, taksi/kuryer/marshrutka ko'proq to'laydi, usta va sotuvchi ish haqi tenglashtirildi",
  "files": {
   "windows": {
-   "file": "v48_windows.pck",
-   "sha256": "1fefd04dbf12d8e77d70b2f75a04a83eabd87a8a14a062247921a33b6b51c5f8",
-   "size": 65917708
+   "file": "v49_windows.pck",
+   "sha256": "34b3c7849e7e5d5f85970a335e8a867993ac8117318af20e596f5228a724074e",
+   "size": 65928276
   },
   "android": {
-   "file": "v48_android.pck",
-   "sha256": "a4cf01b6ceb2ab035fe5a17b3ccbad21a76ab74544b823ed680ded3b96343566",
-   "size": 65917356
+   "file": "v49_android.pck",
+   "sha256": "b4e88ecfdf515af2f8eb44319c6076bb35c6e3b9ddad1d6aa1ee8ef6255d8d5b",
+   "size": 65927924
   }
  }
 }
