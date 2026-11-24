@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 50,
- "notes": "Kechki shahar: derazalar yonadi, ko'chalarda chiroqlar va yorug' dog'lar, NPC mashinalar kechasi faralarini yoqadi",
+ "version": 51,
+ "notes": "Bank bo'limlari (kassa va bankomat), pochta va avtosalonlar ichiga kirsa bo'ladi",
  "files": {
   "windows": {
-   "file": "v50_windows.pck",
-   "sha256": "15fbf4b7d9e67968cf8d4d55bc0d38d9dabbd62848abf781e19de40afb81faae",
-   "size": 74677024
+   "file": "v51_windows.pck",
+   "sha256": "e3675f4f3d4c5ee251d24518dac9c0a591f170ac2fe91250c0d53fb6bad57d35",
+   "size": 74682112
   },
   "android": {
-   "file": "v50_android.pck",
-   "sha256": "038ab698fa436de24aa2b4931e89867a701ce8a7c2b67db226e6ebf634bd8c78",
-   "size": 74676672
+   "file": "v51_android.pck",
+   "sha256": "6d0a3d41d12f3779b8eb48fb95be3cf2736d33c090f73bac6fed88a4a78cdf14",
+   "size": 74681760
   }
  }
 }
