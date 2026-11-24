@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 47,
- "notes": "Telefonda tezlik: Past grafikada fizika 45 Hz",
+ "version": 48,
+ "notes": "Do'kon, choyxona va kafelarga kirish mumkin",
  "files": {
   "windows": {
-   "file": "v47_windows.pck",
-   "sha256": "4928bd4b0da5a0f4a93a4f9ef3fa2068ab32caf8bdc1bd4375c0303034fcd05e",
-   "size": 65887008
+   "file": "v48_windows.pck",
+   "sha256": "1fefd04dbf12d8e77d70b2f75a04a83eabd87a8a14a062247921a33b6b51c5f8",
+   "size": 65917708
   },
   "android": {
-   "file": "v47_android.pck",
-   "sha256": "51c693a5ba76899ae2c06b5206325823deb3ac58da8336ea1effd065d2b6048e",
-   "size": 65886656
+   "file": "v48_android.pck",
+   "sha256": "a4cf01b6ceb2ab035fe5a17b3ccbad21a76ab74544b823ed680ded3b96343566",
+   "size": 65917356
   }
  }
 }
