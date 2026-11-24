@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 46,
- "notes": "O'yin to'xtagan joydan davom etadi; mashina uzoqda tushib ketmaydi",
+ "version": 47,
+ "notes": "Telefonda tezlik: Past grafikada fizika 45 Hz",
  "files": {
   "windows": {
-   "file": "v46_windows.pck",
-   "sha256": "0bb41003b53ab150c59d7decaa26da98c71f6498a723ec99f39fe8e98e36d637",
-   "size": 65886896
+   "file": "v47_windows.pck",
+   "sha256": "4928bd4b0da5a0f4a93a4f9ef3fa2068ab32caf8bdc1bd4375c0303034fcd05e",
+   "size": 65887008
   },
   "android": {
-   "file": "v46_android.pck",
-   "sha256": "d009d1cb168bd292c52067851bf7d2208f3d4b4f45d91378fa1a07ff1adb1f57",
-   "size": 65886544
+   "file": "v47_android.pck",
+   "sha256": "51c693a5ba76899ae2c06b5206325823deb3ac58da8336ea1effd065d2b6048e",
+   "size": 65886656
   }
  }
 }
