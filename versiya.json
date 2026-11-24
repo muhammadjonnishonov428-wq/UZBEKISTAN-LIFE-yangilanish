@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 55,
- "notes": "Onlayn saqlash: kunlik vazifalar va darajalar, YPX jarimalari, mashina yoqilg'isi, oila, kiyimlar va smartfon endi serverdagi profilda",
+ "version": 56,
+ "notes": "YPX quvishi: 4 va undan ortiq to'lanmagan jarima bo'lsa, patrul sirena bilan quvadi. To'xtasangiz — jarimalar +20%, qochsangiz — yangi jarima",
  "files": {
   "windows": {
-   "file": "v55_windows.pck",
-   "sha256": "7be81c84af480843411cd614272cbd97cc7145f8ce9e91a709bf732a2eb73ff2",
-   "size": 74752232
+   "file": "v56_windows.pck",
+   "sha256": "b33519ec0c158388d9f2dc81e43830fb2657502f303bb8ce67bcd3662e3da571",
+   "size": 74758976
   },
   "android": {
-   "file": "v55_android.pck",
-   "sha256": "7a636cde54900f05dbbebef048d65bfb75a3b746bef41736ca33771c8fbc5dc7",
-   "size": 74751880
+   "file": "v56_android.pck",
+   "sha256": "76fe3b415d2682dbb0550d97313586f4d83f22259145176e8db15aed36568281",
+   "size": 74758624
   }
  }
 }
