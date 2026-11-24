@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 43,
- "notes": "Piyodalar mashinadan o'z vaqtida qochadi",
+ "version": 44,
+ "notes": "Trotuarlar: katta ko'chalarda 830 km, piyodalar trotuardan yuradi",
  "files": {
   "windows": {
-   "file": "v43_windows.pck",
-   "sha256": "d48c2ad89845659c6b4b7ebd5503736d8ea34af07d79999bfba0088ed5ca4982",
-   "size": 62388564
+   "file": "v44_windows.pck",
+   "sha256": "b9fa744562cff2c0405289255384782117a044f93e5a14fa3d0b6df3a0dc4493",
+   "size": 65658596
   },
   "android": {
-   "file": "v43_android.pck",
-   "sha256": "5f81f5cc80d4e1dd9eb39bd8f104d467a9492286413dc9029ecfbf5dde29239c",
-   "size": 62388212
+   "file": "v44_android.pck",
+   "sha256": "c03727491d01abfcd647fbf58f8938561176228540954f1b3942750f1afba22f",
+   "size": 65658244
   }
  }
 }
