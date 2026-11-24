@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 51,
- "notes": "Bank bo'limlari (kassa va bankomat), pochta va avtosalonlar ichiga kirsa bo'ladi",
+ "version": 52,
+ "notes": "Kunlik vazifalar (har o'yin kuni 3 ta, mukofot bilan) va ish darajalari (1–10, har daraja +3% ish haqi). Pauza menyusi → Vazifalar, kompyuterda J",
  "files": {
   "windows": {
-   "file": "v51_windows.pck",
-   "sha256": "e3675f4f3d4c5ee251d24518dac9c0a591f170ac2fe91250c0d53fb6bad57d35",
-   "size": 74682112
+   "file": "v52_windows.pck",
+   "sha256": "5fe339823e2bde3452ddfe4f85f145ec2211571130df7be3496c2bd3a4816b0c",
+   "size": 74717024
   },
   "android": {
-   "file": "v51_android.pck",
-   "sha256": "6d0a3d41d12f3779b8eb48fb95be3cf2736d33c090f73bac6fed88a4a78cdf14",
-   "size": 74681760
+   "file": "v52_android.pck",
+   "sha256": "693d204881d7600eeafd38ff6a1acf12f5352f73828a898b5122e4e28b33df9d",
+   "size": 74716672
   }
  }
 }
