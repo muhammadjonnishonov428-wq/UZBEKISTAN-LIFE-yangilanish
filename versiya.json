@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 54,
- "notes": "Yo'l qoidalari: svetoforlarda qizil chiroq kamerasi, ba'zilarida tezlik kamerasi (shaharda 70 km/soat), YPX jarimalari — pauza menyusida yoki bankda to'lanadi",
+ "version": 55,
+ "notes": "Onlayn saqlash: kunlik vazifalar va darajalar, YPX jarimalari, mashina yoqilg'isi, oila, kiyimlar va smartfon endi serverdagi profilda",
  "files": {
   "windows": {
-   "file": "v54_windows.pck",
-   "sha256": "225d5feedb91a66d74f2e55b8c0da9b1dd82f1302159076b177c263e01bd3163",
-   "size": 74735612
+   "file": "v55_windows.pck",
+   "sha256": "7be81c84af480843411cd614272cbd97cc7145f8ce9e91a709bf732a2eb73ff2",
+   "size": 74752232
   },
   "android": {
-   "file": "v54_android.pck",
-   "sha256": "5d1aff303d5b15a1d340958adf934b0579670b2db8e0e033caebbb7115b50431",
-   "size": 74735260
+   "file": "v55_android.pck",
+   "sha256": "7a636cde54900f05dbbebef048d65bfb75a3b746bef41736ca33771c8fbc5dc7",
+   "size": 74751880
   }
  }
 }
