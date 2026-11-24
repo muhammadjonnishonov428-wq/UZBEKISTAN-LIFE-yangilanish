@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 45,
- "notes": "Obidalar o'z shaklida: Registon, Go'ri Amir, Bibixonim, Shohi Zinda",
+ "version": 46,
+ "notes": "O'yin to'xtagan joydan davom etadi; mashina uzoqda tushib ketmaydi",
  "files": {
   "windows": {
-   "file": "v45_windows.pck",
-   "sha256": "60bfcb9aa8c9404eea7e8fef92e87cc4f8c0e3f733ab3ca29d6f0d70a11be6cf",
-   "size": 65887732
+   "file": "v46_windows.pck",
+   "sha256": "0bb41003b53ab150c59d7decaa26da98c71f6498a723ec99f39fe8e98e36d637",
+   "size": 65886896
   },
   "android": {
-   "file": "v45_android.pck",
-   "sha256": "2433121777291451ad4b8daa1770a113a53bdbd0f3ff586cd67e8874d2749da5",
-   "size": 65887380
+   "file": "v46_android.pck",
+   "sha256": "d009d1cb168bd292c52067851bf7d2208f3d4b4f45d91378fa1a07ff1adb1f57",
+   "size": 65886544
   }
  }
 }
