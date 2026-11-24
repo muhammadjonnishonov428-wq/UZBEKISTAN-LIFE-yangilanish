@@ -1,6 +1,17 @@
 {
  "base": 3,
- "version": 57,
- "notes": "Versiya 1.1.0: yangi APK/EXE o'rnating — kechki shahar, vazifalar, yo'l qoidalari, YPX quvishi; keyingi yangilanishlar kichik bo'ladi",
- "files": {}
+ "version": 58,
+ "notes": "Ob-havo shaharda ko'rinadi: yomg'irdan keyin yo'l ho'l va ko'lmakli, qishda qor qoplaydi, muz; ertalab ba'zan tuman",
+ "files": {
+  "windows": {
+   "file": "v58_windows.pck",
+   "sha256": "ad148f3f373576a9d15cfc219f46c726d7c8ca566aab12c6cc54a454b74fa058",
+   "size": 98400
+  },
+  "android": {
+   "file": "v58_android.pck",
+   "sha256": "50e5915c89541e7d680182aee3f75941a328da74f31008eecb46d15bc448c682",
+   "size": 98048
+  }
+ }
 }
