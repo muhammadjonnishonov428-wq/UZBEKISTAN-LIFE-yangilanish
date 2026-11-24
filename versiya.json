@@ -1,17 +1,6 @@
 {
- "base": 2,
- "version": 56,
- "notes": "YPX quvishi: 4 va undan ortiq to'lanmagan jarima bo'lsa, patrul sirena bilan quvadi. To'xtasangiz — jarimalar +20%, qochsangiz — yangi jarima",
- "files": {
-  "windows": {
-   "file": "v56_windows.pck",
-   "sha256": "b33519ec0c158388d9f2dc81e43830fb2657502f303bb8ce67bcd3662e3da571",
-   "size": 74758976
-  },
-  "android": {
-   "file": "v56_android.pck",
-   "sha256": "76fe3b415d2682dbb0550d97313586f4d83f22259145176e8db15aed36568281",
-   "size": 74758624
-  }
- }
+ "base": 3,
+ "version": 57,
+ "notes": "Versiya 1.1.0: yangi APK/EXE o'rnating — kechki shahar, vazifalar, yo'l qoidalari, YPX quvishi; keyingi yangilanishlar kichik bo'ladi",
+ "files": {}
 }
