@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 44,
- "notes": "Trotuarlar: katta ko'chalarda 830 km, piyodalar trotuardan yuradi",
+ "version": 45,
+ "notes": "Obidalar o'z shaklida: Registon, Go'ri Amir, Bibixonim, Shohi Zinda",
  "files": {
   "windows": {
-   "file": "v44_windows.pck",
-   "sha256": "b9fa744562cff2c0405289255384782117a044f93e5a14fa3d0b6df3a0dc4493",
-   "size": 65658596
+   "file": "v45_windows.pck",
+   "sha256": "60bfcb9aa8c9404eea7e8fef92e87cc4f8c0e3f733ab3ca29d6f0d70a11be6cf",
+   "size": 65887732
   },
   "android": {
-   "file": "v44_android.pck",
-   "sha256": "c03727491d01abfcd647fbf58f8938561176228540954f1b3942750f1afba22f",
-   "size": 65658244
+   "file": "v45_android.pck",
+   "sha256": "2433121777291451ad4b8daa1770a113a53bdbd0f3ff586cd67e8874d2749da5",
+   "size": 65887380
   }
  }
 }
