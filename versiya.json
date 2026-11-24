@@ -1,17 +1,17 @@
 {
  "base": 2,
- "version": 53,
- "notes": "Qotishlar tuzatildi: YPX quvish ishida, onlaynda boshqa o'yinchi chiqib ketganda va o'yindan chiqishda o'yin qotib qolishi mumkin edi",
+ "version": 54,
+ "notes": "Yo'l qoidalari: svetoforlarda qizil chiroq kamerasi, ba'zilarida tezlik kamerasi (shaharda 70 km/soat), YPX jarimalari — pauza menyusida yoki bankda to'lanadi",
  "files": {
   "windows": {
-   "file": "v53_windows.pck",
-   "sha256": "e9225c7365d241cbaad7e706be47e8562ea1b6ce3fff79a17487430fa3922b68",
-   "size": 74723140
+   "file": "v54_windows.pck",
+   "sha256": "225d5feedb91a66d74f2e55b8c0da9b1dd82f1302159076b177c263e01bd3163",
+   "size": 74735612
   },
   "android": {
-   "file": "v53_android.pck",
-   "sha256": "d8f8fb6a2f48b1004d8fba232ef930c3dd7b3e54010f6721ddac0bc231faa0f2",
-   "size": 74722788
+   "file": "v54_android.pck",
+   "sha256": "5d1aff303d5b15a1d340958adf934b0579670b2db8e0e033caebbb7115b50431",
+   "size": 74735260
   }
  }
 }
