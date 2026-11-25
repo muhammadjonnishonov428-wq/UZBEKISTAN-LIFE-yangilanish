@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 63,
- "notes": "Mahallalar va binolar: hovli uylar (qiya tom, devor, darvoza, ayvon), panel uylarda balkon va podyezd, do'kon vitrinalari",
+ "version": 64,
+ "notes": "Transport: NPC taksilar va marshrutkalar (sinov yo'nalishi), Nexia va Isuzu ko'chada, burilish chiroqlari",
  "files": {
   "windows": {
-   "file": "v63_windows.pck",
-   "sha256": "772a842c649f495f1438211a6520c1ea4af14d84ed12c5311ed8566913062eb9",
-   "size": 96552812
+   "file": "v64_windows.pck",
+   "sha256": "f84acb1145e99d7dfe70f76232b50efab1c355bf61afb8feb3a7c495352d6c3b",
+   "size": 96590608
   },
   "android": {
-   "file": "v63_android.pck",
-   "sha256": "5ae2a1c5e952c4b15174aa780b6c177d947f170675ec008faa7fded8c130960a",
-   "size": 96552460
+   "file": "v64_android.pck",
+   "sha256": "668a6ff177ae66014ddafb4b16c1561e4150956ebac2f9a93cf7159afb149829",
+   "size": 96590256
   }
  }
 }
