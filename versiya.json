@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 60,
- "notes": "Haqiqiy Samarqand, 2-bosqich: vokzal binosi (portal, galereya, SAMARQAND yozuvi va soat), taksilar, vokzaldan chiqayotgan odamlar, maydon chiroqlari; yangi o'yin vokzal oldida. Katta tuzatish: shahar bo'ylab yer ko'rinmasdi (oq joylar) — endi tuproq va o't",
+ "version": 61,
+ "notes": "Tarixiy joylar: koshin naqshlari, maydon toshlari, kechasi obidalar yoritiladi",
  "files": {
   "windows": {
-   "file": "v60_windows.pck",
-   "sha256": "bd24ed4bc84316912b0c224fc63c842447d7bd4f12b6690e356e5d9b61064fc8",
-   "size": 55761072
+   "file": "v61_windows.pck",
+   "sha256": "ff99a7b171e31c38038826b98cfd3227f422a7e0bfb1529376d025648078169b",
+   "size": 55766144
   },
   "android": {
-   "file": "v60_android.pck",
-   "sha256": "f0ff09b93d6c971135550d9b18d5cae1a5faf5e0f7445d9a8a4538e46dce855c",
-   "size": 55760720
+   "file": "v61_android.pck",
+   "sha256": "21b98dd9b01dcf2eb9bba132bb70171ff522322d8a58409e646d70e76c2510be",
+   "size": 55765792
   }
  }
 }
