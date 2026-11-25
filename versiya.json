@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 62,
- "notes": "Bulvar va parklar: chinor, tut, archa, terak; fasl ranglari; gulzorlar; kiosklar; sayr qiluvchilar",
+ "version": 63,
+ "notes": "Mahallalar va binolar: hovli uylar (qiya tom, devor, darvoza, ayvon), panel uylarda balkon va podyezd, do'kon vitrinalari",
  "files": {
   "windows": {
-   "file": "v62_windows.pck",
-   "sha256": "ed6f4dd157eb096f759c4ec2e0f7c80b3bab8c0132cf32b43bc9b1ad105ee1e6",
-   "size": 66952860
+   "file": "v63_windows.pck",
+   "sha256": "772a842c649f495f1438211a6520c1ea4af14d84ed12c5311ed8566913062eb9",
+   "size": 96552812
   },
   "android": {
-   "file": "v62_android.pck",
-   "sha256": "56643186201cc42c90b5eaaf9d06fa57ad7b334533f881daa8391494c33acb5d",
-   "size": 66952508
+   "file": "v63_android.pck",
+   "sha256": "5ae2a1c5e952c4b15174aa780b6c177d947f170675ec008faa7fded8c130960a",
+   "size": 96552460
   }
  }
 }
