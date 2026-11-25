@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 59,
- "notes": "Mashina shikasti saqlanadi; 90% dan oshsa dvigatel ishlamaydi — evakuator; shahardagi hamma avtoservislarda ta'mir; KASKO sug'urtasi",
+ "version": 60,
+ "notes": "Haqiqiy Samarqand, 2-bosqich: vokzal binosi (portal, galereya, SAMARQAND yozuvi va soat), taksilar, vokzaldan chiqayotgan odamlar, maydon chiroqlari; yangi o'yin vokzal oldida. Katta tuzatish: shahar bo'ylab yer ko'rinmasdi (oq joylar) — endi tuproq va o't",
  "files": {
   "windows": {
-   "file": "v59_windows.pck",
-   "sha256": "c8d959bb3a46d4e87e741f5fb337450cb41786150a9f97423e20154dec6e9834",
-   "size": 201256
+   "file": "v60_windows.pck",
+   "sha256": "bd24ed4bc84316912b0c224fc63c842447d7bd4f12b6690e356e5d9b61064fc8",
+   "size": 55761072
   },
   "android": {
-   "file": "v59_android.pck",
-   "sha256": "f02176ec129021d856d59b7030f6d3b2458e3b80c403a48ca6caf18a33a700a6",
-   "size": 200904
+   "file": "v60_android.pck",
+   "sha256": "f0ff09b93d6c971135550d9b18d5cae1a5faf5e0f7445d9a8a4538e46dce855c",
+   "size": 55760720
   }
  }
 }
