@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 61,
- "notes": "Tarixiy joylar: koshin naqshlari, maydon toshlari, kechasi obidalar yoritiladi",
+ "version": 62,
+ "notes": "Bulvar va parklar: chinor, tut, archa, terak; fasl ranglari; gulzorlar; kiosklar; sayr qiluvchilar",
  "files": {
   "windows": {
-   "file": "v61_windows.pck",
-   "sha256": "ff99a7b171e31c38038826b98cfd3227f422a7e0bfb1529376d025648078169b",
-   "size": 55766144
+   "file": "v62_windows.pck",
+   "sha256": "ed6f4dd157eb096f759c4ec2e0f7c80b3bab8c0132cf32b43bc9b1ad105ee1e6",
+   "size": 66952860
   },
   "android": {
-   "file": "v61_android.pck",
-   "sha256": "21b98dd9b01dcf2eb9bba132bb70171ff522322d8a58409e646d70e76c2510be",
-   "size": 55765792
+   "file": "v62_android.pck",
+   "sha256": "56643186201cc42c90b5eaaf9d06fa57ad7b334533f881daa8391494c33acb5d",
+   "size": 66952508
   }
  }
 }
