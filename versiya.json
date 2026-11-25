@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 64,
- "notes": "Transport: NPC taksilar va marshrutkalar (sinov yo'nalishi), Nexia va Isuzu ko'chada, burilish chiroqlari",
+ "version": 65,
+ "notes": "Piyodalar xilma-xil: keksalar (do'ppi), yoshlar (ryukzak), ishchilar (kepka, sumka), har xil bo'y va kiyim; taksida Nexia yo'q",
  "files": {
   "windows": {
-   "file": "v64_windows.pck",
-   "sha256": "f84acb1145e99d7dfe70f76232b50efab1c355bf61afb8feb3a7c495352d6c3b",
-   "size": 96590608
+   "file": "v65_windows.pck",
+   "sha256": "7eb09d4b87e1ef904b3a07817a69111e8c1c78019ee5a298788f8b7a3f2efcc7",
+   "size": 96596968
   },
   "android": {
-   "file": "v64_android.pck",
-   "sha256": "668a6ff177ae66014ddafb4b16c1561e4150956ebac2f9a93cf7159afb149829",
-   "size": 96590256
+   "file": "v65_android.pck",
+   "sha256": "cf63e9909ffed16b71758e3d949140dffff2bd505d41e5125a490acb8dbab402",
+   "size": 96596616
   }
  }
 }
