@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 65,
- "notes": "Piyodalar xilma-xil: keksalar (do'ppi), yoshlar (ryukzak), ishchilar (kepka, sumka), har xil bo'y va kiyim; taksida Nexia yo'q",
+ "version": 66,
+ "notes": "Osmonda suzuvchi bulutlar va tunda yulduzlar; vokzal, bozor va parklarda shahar tovushlari (olomon, qushlar, e'lon qo'ng'irog'i)",
  "files": {
   "windows": {
-   "file": "v65_windows.pck",
-   "sha256": "7eb09d4b87e1ef904b3a07817a69111e8c1c78019ee5a298788f8b7a3f2efcc7",
-   "size": 96596968
+   "file": "v66_windows.pck",
+   "sha256": "65a5c1b6687aadfbb2df96038310c62717b1b08bfbf2e2656ce6bb1b06bb4194",
+   "size": 96608528
   },
   "android": {
-   "file": "v65_android.pck",
-   "sha256": "cf63e9909ffed16b71758e3d949140dffff2bd505d41e5125a490acb8dbab402",
-   "size": 96596616
+   "file": "v66_android.pck",
+   "sha256": "42e82d08f06e0b4b5cf3cb190fe5dccfb3a033ec8b4e103944c64fee0b4ff7d8",
+   "size": 96608176
   }
  }
 }
