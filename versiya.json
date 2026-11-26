@@ -1,17 +1,17 @@
 {
  "base": 3,
- "version": 66,
- "notes": "Osmonda suzuvchi bulutlar va tunda yulduzlar; vokzal, bozor va parklarda shahar tovushlari (olomon, qushlar, e'lon qo'ng'irog'i)",
+ "version": 67,
+ "notes": "Piyoda GPS (yo'laklar orqali), svetoforlarda zebra va yo'l belgilari, temiryo'l va poyezd (vokzalda to'xtaydi), kesishmalarda shlagbaum",
  "files": {
   "windows": {
-   "file": "v66_windows.pck",
-   "sha256": "65a5c1b6687aadfbb2df96038310c62717b1b08bfbf2e2656ce6bb1b06bb4194",
-   "size": 96608528
+   "file": "v67_windows.pck",
+   "sha256": "b3a33a08166841af62b3bbce9134fe59c7ba7519e58f8ee17fbeb30e8ad8f102",
+   "size": 98400112
   },
   "android": {
-   "file": "v66_android.pck",
-   "sha256": "42e82d08f06e0b4b5cf3cb190fe5dccfb3a033ec8b4e103944c64fee0b4ff7d8",
-   "size": 96608176
+   "file": "v67_android.pck",
+   "sha256": "05a5c7845d81e146d68df7b34075d6658d4d77340192f4e3a5ae166bad039459",
+   "size": 98399760
   }
  }
 }
