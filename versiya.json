@@ -1,17 +1,17 @@
 {
  "base": 4,
- "version": 69,
- "notes": "Tezlik: poyezd kelganda qotish tuzatildi; sinov yo'li operativ xotirani ham ko'rsatadi",
+ "version": 70,
+ "notes": "Xotira: mashina teksturalari siqildi (telefonda ~85 MB kam), sinov yo'li telefonda xotirani ko'rsatadi",
  "files": {
   "windows": {
-   "file": "v69_windows.pck",
-   "sha256": "36317cd6b2a75986860e7228f5f6f063d835c25d0a5df2cb82c45c04f585f2f6",
-   "size": 120924
+   "file": "v70_windows.pck",
+   "sha256": "6cdb00e85e1922cfd4abc7a078fb5d08996753b596b398dcc1cf0efa2c60d21d",
+   "size": 15595548
   },
   "android": {
-   "file": "v69_android.pck",
-   "sha256": "b50a8d62351f25ccba7cb188dba1c37240fb1e1c1bebea48a70af21895d4d189",
-   "size": 120572
+   "file": "v70_android.pck",
+   "sha256": "84c47e09e49205bfe2434dd64d4207a210d57e0d881787067c602b232887bf18",
+   "size": 15595196
   }
  }
 }
