@@ -1,17 +1,17 @@
 {
  "base": 4,
- "version": 68,
- "notes": "Sinov yo'li: pauza menyusida avtomatik FPS va xotira o'lchovi (5 joy, Past/O'rta)",
+ "version": 69,
+ "notes": "Tezlik: poyezd kelganda qotish tuzatildi; sinov yo'li operativ xotirani ham ko'rsatadi",
  "files": {
   "windows": {
-   "file": "v68_windows.pck",
-   "sha256": "d6f9992f69e231a1ac7ff9593fc305ecd7e2b80c7de2ea81f4faf0361bd68290",
-   "size": 74392
+   "file": "v69_windows.pck",
+   "sha256": "36317cd6b2a75986860e7228f5f6f063d835c25d0a5df2cb82c45c04f585f2f6",
+   "size": 120924
   },
   "android": {
-   "file": "v68_android.pck",
-   "sha256": "312b278a299dd3e228ae86289ece263508b2da2f34221e7aa8308fa4c785e450",
-   "size": 74040
+   "file": "v69_android.pck",
+   "sha256": "b50a8d62351f25ccba7cb188dba1c37240fb1e1c1bebea48a70af21895d4d189",
+   "size": 120572
   }
  }
 }
