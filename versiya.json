@@ -1,17 +1,17 @@
 {
- "base": 3,
- "version": 67,
- "notes": "Piyoda GPS (yo'laklar orqali), svetoforlarda zebra va yo'l belgilari, temiryo'l va poyezd (vokzalda to'xtaydi), kesishmalarda shlagbaum",
+ "base": 4,
+ "version": 68,
+ "notes": "Sinov yo'li: pauza menyusida avtomatik FPS va xotira o'lchovi (5 joy, Past/O'rta)",
  "files": {
   "windows": {
-   "file": "v67_windows.pck",
-   "sha256": "b3a33a08166841af62b3bbce9134fe59c7ba7519e58f8ee17fbeb30e8ad8f102",
-   "size": 98400112
+   "file": "v68_windows.pck",
+   "sha256": "d6f9992f69e231a1ac7ff9593fc305ecd7e2b80c7de2ea81f4faf0361bd68290",
+   "size": 74392
   },
   "android": {
-   "file": "v67_android.pck",
-   "sha256": "05a5c7845d81e146d68df7b34075d6658d4d77340192f4e3a5ae166bad039459",
-   "size": 98399760
+   "file": "v68_android.pck",
+   "sha256": "312b278a299dd3e228ae86289ece263508b2da2f34221e7aa8308fa4c785e450",
+   "size": 74040
   }
  }
 }
