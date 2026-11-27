@@ -1,17 +1,17 @@
 {
  "base": 4,
- "version": 71,
- "notes": "Birinchi ochilishdagi qotish kamaytirildi: sheyderlar menyu orqasida oldindan tayyorlanadi",
+ "version": 72,
+ "notes": "Birinchi ochilishdagi qotish kamaytirildi: sheyderlar ko'rinmas oynada oldindan tayyorlanadi (mashinalar, piyodalar, temir yo'l)",
  "files": {
   "windows": {
-   "file": "v71_windows.pck",
-   "sha256": "90f3f1716d649d7fe66274bb5a02557822b5590f235a20b3fe6ee29734055a23",
-   "size": 15599292
+   "file": "v72_windows.pck",
+   "sha256": "5302864dc0428ebee1a6c45b85509a5f0c64ea3a035e21119de420d9052de747",
+   "size": 15600636
   },
   "android": {
-   "file": "v71_android.pck",
-   "sha256": "1680b728fb318605fa5783ffe4df7dc540395a27981c04a5502adaf51c0641c1",
-   "size": 15598940
+   "file": "v72_android.pck",
+   "sha256": "f57f694dcea78a8df7afa2a9ab77b6030d818d7db3bf95f7354a3a33c7aaf34d",
+   "size": 15600284
   }
  }
 }
