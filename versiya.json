@@ -1,17 +1,17 @@
 {
  "base": 4,
- "version": 70,
- "notes": "Xotira: mashina teksturalari siqildi (telefonda ~85 MB kam), sinov yo'li telefonda xotirani ko'rsatadi",
+ "version": 71,
+ "notes": "Birinchi ochilishdagi qotish kamaytirildi: sheyderlar menyu orqasida oldindan tayyorlanadi",
  "files": {
   "windows": {
-   "file": "v70_windows.pck",
-   "sha256": "6cdb00e85e1922cfd4abc7a078fb5d08996753b596b398dcc1cf0efa2c60d21d",
-   "size": 15595548
+   "file": "v71_windows.pck",
+   "sha256": "90f3f1716d649d7fe66274bb5a02557822b5590f235a20b3fe6ee29734055a23",
+   "size": 15599292
   },
   "android": {
-   "file": "v70_android.pck",
-   "sha256": "84c47e09e49205bfe2434dd64d4207a210d57e0d881787067c602b232887bf18",
-   "size": 15595196
+   "file": "v71_android.pck",
+   "sha256": "1680b728fb318605fa5783ffe4df7dc540395a27981c04a5502adaf51c0641c1",
+   "size": 15598940
   }
  }
 }
